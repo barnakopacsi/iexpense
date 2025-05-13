@@ -23,6 +23,9 @@
 ![iExpense Screenshot #1](ss1.png)  
 ![iExpense Screenshot #2](ss2.png)  
 ![iExpense Screenshot #3](ss3.png)
+![iExpense Screenshot #4](ss4.png)
+![iExpense Screenshot #5](ss5.png)
+![iExpense Screenshot #6](ss6.png)
 
 ---
 
